@@ -1,0 +1,1 @@
+# Verificador-de-Seguran-as-de-Senhas
